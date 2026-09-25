@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cn.wbplmub.cn/sitemap.xml
